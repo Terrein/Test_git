@@ -5,7 +5,7 @@ slide1 = '(^_^)'
 slide2 = '(^_~)'
 slide3 = '(^_^)'
 slide4 = '(о_О)'
-slide5 = '(O_O)'
+slide5 = '(-_-)'
 slide6 = 'Привет Планета!'
 
 time.sleep(1)
